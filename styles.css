@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	text-align:center;
+	border: 2px solid black;
+	height:60vh;
+	width:100hw;
+}
+.code-container{
+	display:flex;
+	justify-content:center;
+	gap:10px
+}
+.code{
+	font-size:4rem;
+	text-align:center;
+	height:5rem;
+	width:4rem;
+	border-radius:5px;
+}
